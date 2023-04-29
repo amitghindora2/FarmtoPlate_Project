@@ -1,1 +1,1 @@
-Pull request file from central repository (Testing).
+Pull request file from central repository.
